@@ -14,7 +14,7 @@
     "Name": {
       "type": "string"
     },
-    "EMail": {
+    "Email": {
       "type": "email",
       "required": true,
       "unique": true
